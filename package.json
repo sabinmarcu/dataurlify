@@ -1,6 +1,6 @@
 {
   "name": "dataurlify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Sabin Marcu <sabinmarcu@gmail.com>",
   "dependencies": {
     "mime": "^1.3.4",
