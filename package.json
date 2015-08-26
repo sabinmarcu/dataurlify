@@ -1,6 +1,6 @@
 {
-  "name": "mimeify",
-  "version": "0.0.1",
+  "name": "dataurlify",
+  "version": "0.1.0",
   "author": "Sabin Marcu <sabinmarcu@gmail.com>",
   "dependencies": {
     "mdi": "^1.2.65",
